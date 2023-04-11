@@ -14,7 +14,11 @@ public class A {
 		System.out.println(obj.b);
 		System.out.println(obj.c);
 		System.out.println(obj.d);
-			System.out.println("master changes"+obj.d);
+
+System.out.println("file change"+obj.d);
+System.out.println("file change from eclipse "+obj.d);
+
+			
 		
 	}
 }
